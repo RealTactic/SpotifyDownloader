@@ -17,5 +17,9 @@ help | Show the help menu.
 -T   | Set custom amount of MAX download threads.
 
 
+The executable may be flagged as malware because it is compiled with pyinstaller which is generally flagged as harmful. look it up. if your not sure use the source code.
+
 I hope this dosn't have any bugs :( but to the best of my knowledge it works.
 Hope you enjoy. :)
+
+
