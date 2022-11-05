@@ -12,8 +12,9 @@ When inputting parameters, you may input multiple links at a time.
 
 help | Show the help menu.
 
-|-y   | Force program to continue without asking user for confirmation.
-|-T   | Set custom amount of MAX download threads.
+-y   | Force program to continue without asking user for confirmation.
+
+-T   | Set custom amount of MAX download threads.
 
 
 I hope this dosn't have any bugs :( but to the best of my knowledge it works.
