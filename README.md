@@ -1,5 +1,5 @@
 # SpotifyLoader
-Download spotify music given a link. Download albums, playlists or tracks
+Download spotify music given a link. Download albums, playlists or tracks and add ID3 tags and cover art
 
 # Description
 This program was made to download spotify music (from youtube) given a spotify link.
